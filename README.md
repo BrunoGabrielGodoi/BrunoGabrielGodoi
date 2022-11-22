@@ -10,6 +10,9 @@ Besides that, AWS has really taken some time out of me so I like to consider mys
 
 🌱  I've been trying to read and study more about personal growth and currently reading "12 Rules for Life: An Antidote to Chaos" which is so simple and yet mind-blowing at the same time.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/bruno-godoi-002bb1103/)
+
+
 
 
 <!--
